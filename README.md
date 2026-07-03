@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujal Patwa</h1>
+<h1 align="center">Hi 👋, I'm Sujal </h1>
 <h3 align="center">AI Enthusiast | LLM Developer | Agentic AI | Building Intelligent AI Systems</h3>
 
 <p align="center">

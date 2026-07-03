@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal </h1>
-<h3 align="center">AI Enthusiast | LLM Developer | Agentic AI | Building Intelligent AI Systems</h3>
+<h3 align="center">AI Enthusiast | AI Application Developer | Agentic AI | Building Intelligent AI Systems</h3>
 
 <p align="center">
 Passionate about developing AI-powered applications using Large Language Models, Agentic AI, and modern AI frameworks.
@@ -21,7 +21,7 @@ Passionate about developing AI-powered applications using Large Language Models,
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/sujal-kumar-patwa-754841347/)" target="_blank">
+<a href="https://www.linkedin.com/in/sujal-kumar-patwa-754841347/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
